@@ -1,0 +1,24 @@
+2025-05-30 07:24:42,615 - utils.logger - INFO - бот запущен
+2025-05-30 07:24:42,615 - aiogram.dispatcher - INFO - Start polling
+2025-05-30 07:24:45,789 - aiogram.dispatcher - INFO - Run polling for bot @smart_daily_planner_2025_bot id=8182817172 - 'Smart Daily Planner'
+2025-05-30 07:24:56,419 - utils.logger - INFO - пользователь 1132276334 добавил задачу: Изучить возможности бота
+2025-05-30 07:24:56,751 - utils.logger - INFO - новый пользователь: 1132276334
+2025-05-30 07:24:56,752 - aiogram.event - INFO - Update id=716148722 is handled. Duration 344 ms by bot id=8182817172
+2025-05-30 07:25:04,017 - aiogram.event - INFO - Update id=716148723 is handled. Duration 281 ms by bot id=8182817172
+2025-05-30 07:25:16,681 - utils.logger - INFO - пользователь 1132276334 добавил задачу: Деплой проекта
+2025-05-30 07:25:16,816 - aiogram.event - INFO - Update id=716148724 is handled. Duration 156 ms by bot id=8182817172
+2025-05-30 07:25:21,200 - aiogram.event - INFO - Update id=716148725 is handled. Duration 578 ms by bot id=8182817172
+2025-05-30 07:25:22,821 - aiogram.event - INFO - Update id=716148726 is handled. Duration 171 ms by bot id=8182817172
+2025-05-30 07:25:32,987 - aiogram.event - INFO - Update id=716148727 is handled. Duration 312 ms by bot id=8182817172
+2025-05-30 07:25:38,795 - aiogram.event - INFO - Update id=716148728 is handled. Duration 171 ms by bot id=8182817172
+2025-05-30 07:25:50,521 - utils.logger - ERROR - таймаут при запросе цитаты
+2025-05-30 07:25:50,703 - aiogram.event - INFO - Update id=716148729 is handled. Duration 10812 ms by bot id=8182817172
+2025-05-30 07:27:37,799 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-30 07:27:38,051 - aiogram.dispatcher - INFO - Polling stopped for bot @smart_daily_planner_2025_bot id=8182817172 - 'Smart Daily Planner'
+2025-05-30 07:27:47,057 - utils.logger - INFO - бот запущен
+2025-05-30 07:27:47,057 - aiogram.dispatcher - INFO - Start polling
+2025-05-30 07:27:47,474 - aiogram.dispatcher - INFO - Run polling for bot @smart_daily_planner_2025_bot id=8182817172 - 'Smart Daily Planner'
+2025-05-30 07:27:51,839 - aiogram.event - INFO - Update id=716148730 is handled. Duration 422 ms by bot id=8182817172
+2025-05-30 07:27:58,520 - utils.logger - WARNING - таймаут при запросе цитаты, использую резервную
+2025-05-30 07:27:58,524 - utils.logger - INFO - использована резервная цитата
+2025-05-30 07:27:58,705 - aiogram.event - INFO - Update id=716148731 is handled. Duration 5594 ms by bot id=8182817172
